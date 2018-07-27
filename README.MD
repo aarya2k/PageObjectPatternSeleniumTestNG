@@ -1,4 +1,4 @@
-# Twitter Assignment
+# Twitter
 
 This project has test to verify, following a specific user on twitter. The project is in Page Object Pattern Framework. It is written in Java, using selenium.
 
